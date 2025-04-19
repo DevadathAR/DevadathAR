@@ -1,5 +1,5 @@
-# 💫 About Me:
-Flutter Developer
+📱 Flutter Full Stack Developer
+👨‍💻 C++ Developer
 
 
 ## 🌐 Socials:
